@@ -1,1 +1,5 @@
 # love-language
+
+<p>
+  I made this project mostly with the inspiration of digital gardening. My interest in language learning, along with my avid use of my “notes” app, lead me to combine these into a digital space to share my thoughts and grow my language abilities. All of the notes selected were originally in typed in English in my app, but were eventually translated into their corresponding language. I would like to ideally type my new notes in that language to begin with and also begin adding notes chronologically, to properly document my language journey. Additionally, I also wanted to incorporate a variety of digital illustrations to reflect the magic of sharing multi-lingual pieces anywhere in the world. The result is a curated art space where my random, and at times personal, notes become on display. There is a bit of barrier between the viewer and the page, however, if they do not know the language.  I was debating the possibility of having an option to translate each note into “English” or the viewers’ preferred language. For now it remains more limited.
+  </p>
